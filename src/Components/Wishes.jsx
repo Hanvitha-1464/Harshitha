@@ -2,8 +2,8 @@ import React, { useState, useRef } from 'react';
 import { FaPlay, FaPause } from 'react-icons/fa';
 
 const wishes = [
-  { name: 'Mom', message: 'Happy Birthday, dear! We love you so much!', src: '/audio/mom-wish.mp3' },
-  { name: 'Dad', message: 'Wishing you all the happiness in the world!', src: '/audio/dad-wish.mp3' },
+  { name: 'Mom', message: 'Happy Birthday, dear! We love you so much!', src: '/audio/mom-wish.opus' },
+  { name: 'Dad', message: 'Wishing you all the happiness in the world!', src: '/audio/dad-wish.opus' },
 ];
 
 const WishWall = () => {

@@ -1,41 +1,42 @@
 import React from 'react';
 const memories = [
   {
-    image: '/images/photo1.jpg',
-    message: 'You light up every room!',
-  },
-  {
-    image: '/images/photo2.jpg',
-    message: 'My partner in crime forever!',
-  },
-  {
-    image: '/images/photo3.jpg',
-    message: 'Always smiling, always glowing!',
-  },
-  {
     image: '/images/photo4.jpg',
     message: 'You light up every room!',
   },
   {
-    image: '/images/photo5.jpg',
+    image: '/images/photo6.jpg',
     message: 'My partner in crime forever!',
   },
   {
-    image: '/images/photo6.jpg',
-    message: 'Always smiling, always glowing!',
+    image: '/images/photo10.jpg',
+    message: 'Look at this naughty little window queen you sent! ',
   },
   {
     image: '/images/photo7.jpg',
-    message: 'You light up every room!',
+    message: 'If cuteness had a face, it would be this photo',
   },
   {
     image: '/images/photo8.jpg',
-    message: 'My partner in crime forever!',
+    message: 'My cute puppyyyy',
   },
   {
     image: '/images/photo9.jpg',
-    message: 'Always smiling, always glowing!',
+    message: 'Always keep smiling and glowing!',
   },
+  {
+    image: '/images/photo1.jpg',
+    message: 'She used to be the tall one.',
+  },
+  {
+    image: '/images/photo5.jpg',
+    message: 'Catching up fast!',
+  },
+  {
+    image: '/images/photo3.jpg',
+    message: 'Now I’m the tall one',
+  },
+  
 ];
 
 const MemoryLane = () => {
